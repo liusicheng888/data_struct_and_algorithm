@@ -1,3 +1,0 @@
-/data/freemind/github/data_struct_and_algorithm/code/heap/build/CMakeFiles/rebuild_cache.dir
-/data/freemind/github/data_struct_and_algorithm/code/heap/build/CMakeFiles/edit_cache.dir
-/data/freemind/github/data_struct_and_algorithm/code/heap/build/CMakeFiles/heap_test.dir
